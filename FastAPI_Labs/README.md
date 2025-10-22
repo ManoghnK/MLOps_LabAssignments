@@ -1,8 +1,8 @@
----
+
 - Video Explanation: [FastAPI lab](https://www.youtube.com/watch?v=KReburHqRIQ&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ&index=4)
 - Blog: [FastAPI Lab-1](https://www.mlwithramin.com/blog/fastapi-lab1)
 
----
+
 ## UI and recent changes
 
 This repository now includes a small single-page UI that calls the existing `/predict` endpoint and is served from the FastAPI app root (`/`). The UI is intentionally lightweight and uses a 21st.dev-inspired visual style. Key points:
