@@ -1,0 +1,72 @@
+_wandb:
+    value:
+        cli_version: 0.22.3
+        e:
+            e3lvfyjsygtn5gyhiqikibbq35v2ekka:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 10
+                    memoryGb: 16
+                    name: Apple M4
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "2147483648"
+                codePath: /Users/rohit/Desktop/College/NEU/MLops/Labs/Lab2.ipynb
+                codePathLocal: Lab2.ipynb
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "251876876288"
+                email: rohit.kandiraju@gmail.com
+                executable: /Users/rohit/Desktop/College/NEU/MLops/Labs/.venv/bin/python
+                git:
+                    commit: 757d14d17d0d53426e7c9499b4836e9f23fce548
+                    remote: https://github.com/ManoghnK/MLOps_LabAssignments.git
+                host: MacBook-Pro.local
+                memory:
+                    total: "17179869184"
+                os: macOS-15.6.1-arm64-arm-64bit
+                program: /Users/rohit/Desktop/College/NEU/MLops/Labs/Lab2.ipynb
+                python: CPython 3.11.13
+                root: /Users/rohit/Desktop/College/NEU/MLops/Labs
+                startedAt: "2025-11-04T03:07:23.105871Z"
+                writerId: e3lvfyjsygtn5gyhiqikibbq35v2ekka
+        m: []
+        python_version: 3.11.13
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.11.13
+            "5": 0.22.3
+            "8":
+                - 1
+            "12": 0.22.3
+            "13": darwin-arm64
+batch_size:
+    value: 64
+dropout:
+    value: 0.2
+epochs:
+    value: 5
+layer_1_size:
+    value: 32
+learn_rate:
+    value: 0.01
+momentum:
+    value: 0.9
+sample:
+    value: 10000
