@@ -25,7 +25,7 @@ You will learn how to:
 * Create infrastructure (VM + GCS bucket) using IaC
 * Modify and re-apply configuration
 * Destroy Terraform-managed resources
-* **(New)** Run an Iris ML training script and upload the model artifact to GCS
+* **(Changes)** Run an Iris ML training script and upload the model artifact to GCS
 
 ---
 
@@ -98,7 +98,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="/path/to/key.json"
 
 ---
 
-## 🚀 Part 1 — Terraform Setting up
+## 🚀 Part 1 — Terraform Setup
 
 ### 1. Check Terraform installation
 

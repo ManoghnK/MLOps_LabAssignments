@@ -7,7 +7,7 @@ import joblib
 from google.cloud import storage
 
 # ----------------------------
-# 1. Load Dataset
+# 1. Loading Dataset
 # ----------------------------
 data = load_iris()
 X = data.data
