@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+
+# Python
+__pycache__/
+*.pkl
+
+# Credentials
+*.json
+
+# OS files
+.DS_Store
