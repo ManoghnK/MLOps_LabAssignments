@@ -1,4 +1,19 @@
+
+=======
+# Terraform
 .terraform/
 *.tfstate
-*.tfstate.backup
-.crash.log
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+
+# Python
+__pycache__/
+*.pkl
+
+# Credentials
+*.json
+
+# OS files
+.DS_Store
+>>>>>>> temp
