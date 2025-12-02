@@ -200,7 +200,7 @@ Distribution of the target variable (MEDV - Median Home Value) across all three 
 - [Remote Storage Guide](https://dvc.org/doc/command-reference/remote)
 
 ## Author
-
+Manoghn Kandiraju
 MLOps Lab Assignment - December 2025
 
 **License:** Educational use only
