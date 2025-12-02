@@ -1,0 +1,23 @@
+{
+  "v1.0": {
+    "samples": 506,
+    "features": 14,
+    "size_kb": 35.29,
+    "numeric_features": 14,
+    "target_distribution": {}
+  },
+  "v2.0": {
+    "samples": 268,
+    "features": 14,
+    "size_kb": 68.23,
+    "numeric_features": 14,
+    "target_distribution": {}
+  },
+  "v3.0": {
+    "samples": 268,
+    "features": 21,
+    "size_kb": 103.46,
+    "numeric_features": 21,
+    "target_distribution": {}
+  }
+}

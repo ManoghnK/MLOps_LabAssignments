@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://manoghn-mlops-dvc-bucket/dvc-storage
+    credentialpath = ../gcp-keys/manoghnmlopsdvclab-2069ad01ecfb.json
